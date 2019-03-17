@@ -1,5 +1,3 @@
-# Feature-Selection-Project-B2DK
-fall 2019 | feature selection project done at lab
+# Deep-Learning-Project-BD2K
+winter 2019 | clustering molecules by biological activity
 
-
-The dataset used for this project can be found at https://www.synapse.org with the id 'syn2289125'. The file is named 'protein_id.txt' and is found in the 'tidy' folder.
